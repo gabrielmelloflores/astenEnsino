@@ -1,0 +1,10 @@
+entity Usuarios {
+	/**
+	* The firstname attribute.
+	*/
+	email String,
+	password String,
+}
+
+// Set pagination options
+paginate Usuarios with pagination

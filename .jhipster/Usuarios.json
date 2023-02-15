@@ -1,0 +1,28 @@
+{
+  "applications": "*",
+  "changelogDate": "20230215144246",
+  "clientRootFolder": "astenEnsino",
+  "databaseType": "sql",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "usuarios",
+  "fields": [
+    {
+      "fieldName": "email",
+      "fieldType": "String",
+      "javadoc": "The firstname attribute."
+    },
+    {
+      "fieldName": "password",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "microserviceName": "astenEnsino",
+  "name": "Usuarios",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

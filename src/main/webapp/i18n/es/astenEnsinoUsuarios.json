@@ -1,0 +1,28 @@
+{
+  "astenEnsinoApp": {
+    "astenEnsinoUsuarios": {
+      "home": {
+        "title": "Usuarios",
+        "refreshListLabel": "Refrescar lista",
+        "createLabel": "Crear nuevo Usuarios",
+        "createOrEditLabel": "Crear o editar Usuarios",
+        "notFound": "Ningún Usuarios encontrado"
+      },
+      "created": "Un nuevo Usuarios ha sido creado con el identificador {{ param }}",
+      "updated": "Un Usuarios ha sido actualizado con el identificador {{ param }}",
+      "deleted": "Un Usuarios ha sido eliminado con el identificador {{ param }}",
+      "delete": {
+        "question": "¿Seguro que quiere eliminar Usuarios {{ id }}?"
+      },
+      "detail": {
+        "title": "Usuarios"
+      },
+      "id": "ID",
+      "email": "Email",
+      "password": "Password",
+      "help": {
+        "email": "The firstname attribute."
+      }
+    }
+  }
+}
